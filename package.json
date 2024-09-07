@@ -1,0 +1,12 @@
+{
+	"name": "InfiniteScrollTest",
+	"version": "1.0.0",
+	"description": "made with Pixelbox.js",
+	"dependencies": {
+		"audio-manager": "0.1.17",
+		"pixelbox": "2.0.0",
+		"prando": "^5.1.2",
+		"tina": "0.3.23"
+	},
+	"devDependencies": {}
+}

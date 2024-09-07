@@ -1,0 +1,23 @@
+{
+	"_type": "spritesheets",
+	"spritesheets": {
+		"gui": {
+			"_type": "spritesheet",
+			"_meta": {
+				"image": "0",
+				"defaultWidth": 24,
+				"defaultHeight": 22
+			},
+			"hotbar": {
+				"x": 0,
+				"y": 0,
+				"w": 77
+			},
+			"hotbarSelection": {
+				"x": 77,
+				"y": 0,
+				"h": 24
+			}
+		}
+	}
+}
